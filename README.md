@@ -47,9 +47,9 @@ Ensemble model with better accuracy
 
 
 ## 🛠️ Tech Stack
-Python (Pandas, NumPy, Scikit-learn, TensorFlow)
+  Python (Pandas, NumPy, Scikit-learn, TensorFlow)
 
-Tableau
+  Tableau
 
-Google Colab
+  Google Colab
 
