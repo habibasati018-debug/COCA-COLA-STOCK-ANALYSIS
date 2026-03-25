@@ -25,7 +25,7 @@ Random Forest
 
 
 ## 📂 Dataset
-Historical stock price data (Open, Close, Volume, etc.)
+Historical stock price data (Open, Close, Volume, etc.))
 
 ## 📊 Exploratory Data Analysis
 Trend Analysis
