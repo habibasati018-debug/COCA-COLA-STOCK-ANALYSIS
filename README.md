@@ -44,5 +44,4 @@ Ensemble model with better accuracy
 Python (Pandas, NumPy, Scikit-learn, TensorFlow)
 Tableau
 Google Colab
-🔗 Dashboard Link
-(Add Tableau Public link here)
+
