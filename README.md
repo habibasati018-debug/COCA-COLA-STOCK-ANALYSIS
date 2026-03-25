@@ -8,6 +8,7 @@ This project analyzes stock data of The Coca-Cola Company and builds multiple ma
 ## 🚀 Features
 Exploratory Data Analysis (EDA)
 Interactive Dashboard (Tableau)
+https://public.tableau.com/shared/C54JQYCWK?:display_count=n&:origin=viz_share_link    
 Multiple ML Models:
 LSTM (Deep Learning)
 SVR (Support Vector Regression)
