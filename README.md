@@ -35,8 +35,7 @@ Volume Distribution
 Price Spread
 
 Volatility insights
-https://github.com/habibasati018-debug/COCA-COLA-STOCK-ANALYSIS/edit/main/README.md
-
+](https://github.com/habibasati018-debug/COCA-COLA-STOCK-ANALYSIS/blob/main/insights.md)
 
 ## 🤖 Machine Learning Models
 
