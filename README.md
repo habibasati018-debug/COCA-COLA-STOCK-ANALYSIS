@@ -29,22 +29,22 @@ Volatility insights
 1. LSTM Model
 Best for time series prediction
 Captures long-term dependencies
-�
+
 2. SVR Model
 Works well with non-linear data
-�
+
 
 3. SGD Regressor
 Fast and scalable model
 
-�
+
 4. Decision Tree
 Easy to interpret
 
-�
+
 5. Random Forest
 Ensemble model with better accuracy
-�
+
 
 ## 🛠️ Tech Stack
 Python (Pandas, NumPy, Scikit-learn, TensorFlow)
