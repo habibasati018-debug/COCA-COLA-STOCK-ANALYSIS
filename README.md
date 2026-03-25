@@ -1,11 +1,11 @@
 # COCA-COLA-STOCK-ANALYSIS
 📊 Coca-Cola Stock Analysis & Prediction
 
-📌 Project Overview
+## 📌 Project Overview
 
 This project analyzes stock data of The Coca-Cola Company and builds multiple machine learning models to predict stock prices.
 
-##🚀 Features
+## 🚀 Features
 Exploratory Data Analysis (EDA)
 Interactive Dashboard (Tableau)
 Multiple ML Models:
@@ -15,16 +15,16 @@ SGD Regressor
 Decision Tree
 Random Forest
 
-##📂 Dataset
+## 📂 Dataset
 Historical stock price data (Open, Close, Volume, etc.)
 
-##📊 Exploratory Data Analysis
+## 📊 Exploratory Data Analysis
 Trend Analysis
 Volume Distribution
 Price Spread
 Volatility insights
 
-##🤖 Machine Learning Models
+## 🤖 Machine Learning Models
 
 1. LSTM Model
 Best for time series prediction
@@ -46,7 +46,7 @@ Easy to interpret
 Ensemble model with better accuracy
 �
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 Python (Pandas, NumPy, Scikit-learn, TensorFlow)
 Tableau
 Google Colab
