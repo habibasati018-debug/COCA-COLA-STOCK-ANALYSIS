@@ -29,9 +29,14 @@ Historical stock price data (Open, Close, Volume, etc.)
 
 ## 📊 Exploratory Data Analysis
 Trend Analysis
+
 Volume Distribution
+
 Price Spread
+
 Volatility insights
+https://github.com/habibasati018-debug/COCA-COLA-STOCK-ANALYSIS/edit/main/README.md
+
 
 ## 🤖 Machine Learning Models
 
